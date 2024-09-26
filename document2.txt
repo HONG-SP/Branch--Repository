@@ -65,7 +65,7 @@ void merge(int arr[], int l,
 	}
 }
 
-// l is for left index and r is
+// nice to meet you 
 // right index of the sub-array
 // of arr to be sorted
 void mergeSort(int arr[],
@@ -85,8 +85,8 @@ void mergeSort(int arr[],
 	}
 }
 
-// UTILITY FUNCTIONS
-// Function to print an array
+// hello my friends
+// my name is hong
 void printArray(int A[], int size)
 {
 	int i;
